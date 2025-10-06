@@ -1,0 +1,6 @@
+seed: 12345
+synthetic_n: 5000
+horizon_years: 60
+cycle_length_years: 1
+discount:
+  enable: true
